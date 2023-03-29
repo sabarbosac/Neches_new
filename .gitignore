@@ -1,0 +1,12 @@
+# ATS runs
+*.xmf
+*.dat
+out.log
+*_vis.h5
+*_mesh.h5
+
+# osx
+__MACOSX
+
+# emacs
+*~
