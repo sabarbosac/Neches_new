@@ -1,3 +1,10 @@
+# Ignore large DEM files
+Neches_new/data/shape_files_subbasins/DEM_complete.tif
+Neches_new/data/shape_files_subbasins/DEM_neches.tif
+
+# Ignore other large data files if needed
+*.sqlite
+*.gpkg
 # ATS runs
 *.xmf
 *.dat
